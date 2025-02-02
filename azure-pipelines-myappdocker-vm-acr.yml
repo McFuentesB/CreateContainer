@@ -8,7 +8,7 @@ variables:
   IMAGE_NAME: 'myapp-nginx-s4'  # Se debe colocar el Nombre de la imagen que será descargada desde ACR
   ACR_NAME: 'myappdevop'  # Se debe colocar el Nombre de tu Azure Container Registry (ACR)
   ACR_USERNAME: 'myappdevop'  # Se debe colocar el Nombre de usuario del ACR
-  ACR_PASSWORD: 'ErkMKsOxzRKld61BARU3kCJif2OuBR8XcYwW/ivTHu+ACRD1VwXA'  # Se debe colocar la Contraseña del ACR
+  ACR_PASSWORD: '8rPk+OfjX8VwlxueQwVcr2v+FTQw1YGf9sY/Fn193d+ACRBJInUR'  # Se debe colocar la Contraseña del ACR
 
 stages:
   - stage: Deploy
